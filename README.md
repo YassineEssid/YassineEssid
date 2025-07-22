@@ -1,4 +1,4 @@
-### Hi there, I'm <a " target="_blank" title="Essid Yassine">Essid Yassine</a> 👋
+### Hi there, I'm <a  title="Essid Yassine">Essid Yassine</a> 👋
 ## 🤝 Let's Connect! 
 <img align="right" alt="Essid Yassine" src="images/coding.gif" width="320px" />
 
